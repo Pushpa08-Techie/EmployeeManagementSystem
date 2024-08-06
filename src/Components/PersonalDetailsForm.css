@@ -1,0 +1,89 @@
+/* PersonalDetailsForm.css */
+
+.title {
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.titleName {
+  margin-left: 20px;
+}
+
+.Personal-details-form {
+  justify-content: center;
+  align-items: center;
+  
+  margin-left: 60px;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 800px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.form-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+}
+
+.checkbox-input {
+  margin-right: 10px;
+}
+
+.error-message {
+  color: #dc3545;
+  font-size: 0.875rem;
+}
+
+.submit-button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
+
+@media (max-width: 768px) {
+  .Personal-details-form {
+    padding: 10px;
+  }
+}
+
+.error-message {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
+  /* PersonalDetailsForm.css */
+  .form-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end; 
+    align-items: center;
+    height: 100vh; 
+    padding-right: 20px; 
+  }
+  

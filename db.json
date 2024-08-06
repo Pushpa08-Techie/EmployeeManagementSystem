@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "fname": "njujn",
+      "lname": "khjut",
+      "email": "trydfrtjgtyufg@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 1
+    },
+    {
+      "fname": "lakshmi",
+      "lname": "laksh",
+      "email": "lakshmi@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 2
+    },
+    {
+      "fname": "lakshmi",
+      "lname": "laksh",
+      "email": "lakshmi@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 3
+    },
+    {
+      "fname": "uma",
+      "lname": "maheshwari",
+      "email": "uma@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 4
+    },
+    {
+      "fname": "uma",
+      "lname": "maheswari",
+      "email": "uma@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 5
+    },
+    {
+      "fname": "uma",
+      "lname": "maheshwari",
+      "email": "uma@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 6
+    }
+  ]
+}

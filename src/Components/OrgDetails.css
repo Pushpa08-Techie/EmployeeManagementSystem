@@ -1,0 +1,46 @@
+.OrgDetails {
+  max-width: 100px; 
+  margin: 0 auto;   
+}
+
+.smaller-form {
+  width: 300%; 
+}
+
+.OrgDetails {
+  max-width: 800px; 
+  margin: 0 auto; 
+  padding: 20px; 
+  position: relative; 
+  margin-left: 40px;
+}
+
+h3 {
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+}
+
+.text-center {
+  text-align: center; 
+}
+
+.mt-4 {
+  margin-top: 1.5rem; 
+}
+
+.btn {
+  display: inline-block; 
+}
+
+.btn-primary {
+  padding: 10px 20px; 
+}
+
+
+.text-center.mt-4 {
+  position: absolute;
+  bottom: 20px; 
+  left: 150%;
+  transform: translateX(-50%); 
+}

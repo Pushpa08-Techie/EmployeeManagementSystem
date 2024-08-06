@@ -1,0 +1,13 @@
+.Navbar {
+    margin-bottom: 20px; 
+  }
+  
+
+.Navbar ul li a:hover{
+    background-color: blue;
+    padding: 0;
+}
+
+
+
+
